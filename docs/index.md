@@ -1,5 +1,17 @@
-# ぼくらのエンジニアリング奮闘記
 
-TODO:ページの説明
+[1. タイトル](./0001.md).
+配信開始日: YYYY/MM/DD
+$(話のサマリ)
 
-[1話](./0001.md).
+---
+
+### パーソナリティについて
+
+### 購読
+TODO: 
+- spotifyのリンク
+- RSS
+- Apple
+
+### フィードバック先
+この番組に関するフィードバックはX(旧:twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき)していただくか、X(旧:twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki)にDMをお願いします。
