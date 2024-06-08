@@ -14,4 +14,4 @@ TODO:
 - Apple
 
 ### フィードバック先
-この番組に関するフィードバックはX(旧:twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき)していただくか、X(旧:twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki)にDMをお願いします。
+この番組に関するフィードバックはX(旧:twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき){:target="_blank"}していただくか、X(旧:twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki){:target="_blank"}にDMをお願いします。
