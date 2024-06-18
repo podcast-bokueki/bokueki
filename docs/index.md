@@ -24,4 +24,4 @@ QAエンジニア。自動テストや内部品質など、品質×技術で価�
 <iframe src="https://podcasters.spotify.com/pod/show/572ili2aiig/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### フィードバック先
-この番組に関するフィードバックはX(旧:Twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき){:target="_blank"}していただくか、X(旧:twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki){:target="_blank"}にDMをお願いします。
+この番組に関するフィードバックはX(旧:Twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき){:target="_blank"}していただくか、X(旧:Twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki){:target="_blank"}にDMをお願いします。
