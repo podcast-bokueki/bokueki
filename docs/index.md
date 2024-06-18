@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ぼくらのエンジニアリング奮闘記
 ---
 
 ### [episode. 1](./0001.md)  
