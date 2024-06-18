@@ -1,7 +1,7 @@
+### [episode. 1](./0001.md)  
+配信開始日: 2024/06/18  
+エレベーターピッチを作った話
 
-[1. タイトル](./0001.md).
-配信開始日: YYYY/MM/DD
-$(話のサマリ)
 
 ---
 
@@ -21,10 +21,7 @@ QAエンジニア。自動テストや内部品質など、品質×技術で価�
 * [GitHub](https://github.com/naokiur)
 
 ### 購読
-TODO: 
-- spotifyのリンク
-- RSS
-- Apple
+<iframe src="https://podcasters.spotify.com/pod/show/572ili2aiig/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### フィードバック先
-この番組に関するフィードバックはX(旧:Twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき){:target="_blank"}していただくか、X(旧:twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki){:target="_blank"}にDMをお願いします。
+この番組に関するフィードバックはX(旧:Twitter)で[#ぼくえきでポスト](https://x.com/share?url=https://podcast-bokueki.github.io/bokueki/&hashtags=ぼくえき){:target="_blank"}していただくか、X(旧:Twitter)の[@podcast_bokueki](https://x.com/podcast_bokueki){:target="_blank"}にDMをお願いします。
