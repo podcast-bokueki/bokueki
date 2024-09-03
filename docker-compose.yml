@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  website:
+    build: .
+    platform: $MY_PLATFORM
+    working_dir: /srv/jekyll/docs
+    command: >
+      /bin/bash -c "
+      jekyll serve --config _config.yml,_config.local.yml --watch --baseurl /bokueki
+      "
+    volumes:
+      - $PWD/docs:/srv/jekyll/docs
+    ports:
+      - "4000:4000"
