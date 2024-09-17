@@ -1,0 +1,7 @@
+# Overwrite config for local
+theme: jekyll-theme-cayman
+plugins:
+  # in GitHub Actions Workflow, already applied. but local cannot apply.
+  - jekyll-relative-links
+sass:
+  cache: false
