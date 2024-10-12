@@ -28,8 +28,6 @@ BGM: MusMus
 
 ![完成系](./fixed_why_are_we_here.png)
 
-![完成系](./fixed_why_are_we_here.png)
-
 ![完成系](./fixed_package_design.png)
 
 ![完成系](./fixed_meet_your_neighbors.png)
