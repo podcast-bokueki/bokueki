@@ -6,7 +6,7 @@ title: ぼくらのエンジニアリング奮闘記
 ### episode. 2
 <iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
-配信開始日: 2024/10/12  
+配信開始日: 2024/10/14  
 収録日: 2024/10/07
 
 #### コンテンツ
