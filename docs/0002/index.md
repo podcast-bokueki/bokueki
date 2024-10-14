@@ -4,7 +4,7 @@ title: ぼくらのエンジニアリング奮闘記
 ---
 
 ### episode. 2
-<iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/572ili2aiig/episodes/ep-e2pl4ak" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
 配信開始日: 2024/10/14  
 収録日: 2024/10/07
