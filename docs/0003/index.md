@@ -4,7 +4,7 @@ title: ぼくらのエンジニアリング奮闘記
 ---
 
 ### episode. 3
-<iframe src="TBD" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://creators.spotify.com/pod/show/572ili2aiig/embed/episodes/episode--3-e2snv7d/a-abms4hj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
 配信開始日: 2024/12/25  
 収録日: 2024/12/18
