@@ -3,8 +3,8 @@ layout: default
 title: ぼくらのエンジニアリング奮闘記
 ---
 
-### episode. 3
-<iframe src="TBD" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+### episode. 4
+<iframe src="https://creators.spotify.com/pod/show/572ili2aiig/embed/episodes/episode-4---A-e339ri2/a-abv99o4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
 配信開始日: 2025/05/24  
 収録日: 2025/05/07
