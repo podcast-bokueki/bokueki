@@ -19,3 +19,5 @@ BGM: MusMus
 
 ### 参考リンク
 - [人工知能 - wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
+- [131. AIコーディングの現在地 w/ twada - fukabori.fm](https://fukabori.fm/episode/131)
+- [さこぽんが自作MCPサーバーを作ったブログ](httぶs://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp)
