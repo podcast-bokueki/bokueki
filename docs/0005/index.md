@@ -4,10 +4,10 @@ title: ぼくらのエンジニアリング奮闘記
 ---
 
 ### episode. 5
-TODO: 後でリンクをかえる
-<iframe src="https://creators.spotify.com/pod/show/572ili2aiig/embed/episodes/episode-4---A-e339ri2/a-abv99o4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://creators.spotify.com/pod/profile/572ili2aiig/embed/episodes/episode-5---AI-e38qad1/a-ac6a3b1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
-配信開始日: 2025/09/28  
+配信開始日: 2025/09/30  
 収録日: 2025/09/04
 
 #### コンテンツ
@@ -20,4 +20,4 @@ BGM: MusMus
 ### 参考リンク
 - [人工知能 - wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
 - [131. AIコーディングの現在地 w/ twada - fukabori.fm](https://fukabori.fm/episode/131)
-- [さこぽんが自作MCPサーバーを作ったブログ](httぶs://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp)
+- [さこぽんが自作MCPサーバーを作ったブログ](https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp)
