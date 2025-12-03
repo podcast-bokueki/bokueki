@@ -13,10 +13,23 @@ BGM: MusMus
 #### コンテンツ
 1. オープニング
 2. AIサービスにぼくらのインセプションデッキを学習してもらいました！
-3. 企画を考えてもらおう！
-4. アウトラインも考えてもらおう！
+3. ぼくえきの企画を考えてもらおう！
+4. ぼくえきのアウトラインも考えてもらおう！
 5. エンディング
 
-### 参考リンク
 
-* TBD
+### 考えてもらった企画
+
+![企画1](ai_output_plan_1.png)
+![企画2](ai_output_plan_2.png)
+![企画4(3はskip)](ai_output_plan_4.png)
+
+### 追加で考えてもらった企画
+![追加の企画1](ai_output_added_plan_1.png)
+![追加の企画2](ai_output_added_plan_2.png)
+
+### 考えてもらったアウトライン
+
+![アウトライン1](ai_output_outline_1.png)
+![アウトライン2](ai_output_outline_2.png)
+![アウトライン3](ai_output_outline_3.png)
