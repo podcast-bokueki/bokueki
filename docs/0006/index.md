@@ -5,7 +5,7 @@ title: ぼくらのエンジニアリング奮闘記
 
 ### episode. 6
 
-<iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://creators.spotify.com/pod/profile/572ili2aiig/embed/episodes/episode-6---e3bu3nh/a-acbit79" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 BGM: MusMus  
 配信開始日: 2025/12/05  
 収録日: 2025/11/13
